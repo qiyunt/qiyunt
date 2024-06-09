@@ -6,7 +6,8 @@
  - 居住地：广州
  - Email：umoney@qq.com
  - CSDN：https://blog.csdn.net/m0_56017200
- - Gitee：https://gitee.com/qiyunt 
+ - Gitee：https://gitee.com/qiyunt
+ - WeChat: Xctd2023
     
 # 技能清单
 - 熟练掌握 Java 基础知识，如集合类、IO 流、JDK 序列化、异常处理等，能熟练运用 Jdbc、反射、SPI 机制、动态代 理提升项目的可扩展性；
